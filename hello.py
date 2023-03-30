@@ -1,1 +1,1 @@
-print("hola probando mi nuevo projecto")
+print("hola probando mi nuevo proyecto")
